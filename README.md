@@ -1,4 +1,4 @@
-### Hi there 👋
+THIS IS CHAOOOS
 
 ![Johkker's stats](https://github-readme-stats.vercel.app/api?username=johkker&count_private=tru&theme=tokyonight&show_icons=true)
 
