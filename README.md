@@ -1,12 +1,21 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=johkker&icon=8&color=10)](https://visitcount.itsvg.in)
-  
-  <div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 10%;">
+<h1 align="center">Hello there! I'm Johnny Gregório, aka johkker</h1>
+<h3 align="center">a passionate developer who likes arts, science, music and helping people out.</h3>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
-  <div>
+- 🔭 I’m currently working on [Sei De Cor](https://www.seidecor.com.br/)
+
+- 🌱 I’m currently learning **Nodemailer, Docker and Django**
+
+- 💬 Ask me about **React, Node.JS, Flask, Express, TypeScript, JavaScript**
+
+- 📫 Reach me at **johkker@gmail.com**
+
+- ⚡ Fun fact **I learned how to fly a plane before learning how to drive a car.**
+
+
+
     
     
 <h2 align="center">
@@ -77,6 +86,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=johkker&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johkker&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
   
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
 
 </div>
