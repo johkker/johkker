@@ -4,9 +4,9 @@
 <h1 align="center">Hello there! I'm Johnny Gregório, aka johkker</h1>
 <h3 align="center">a passionate developer who likes arts, science, music and helping people out.</h3>
 
-- 🔭 I’m currently unemployed. Open to work.
+- 🔭 Open to work.
 
-- 🌱 I’m currently learning **Nodemailer, Docker and Django**
+- 🌱 I’m currently learning **Vue**
 
 - 💬 Ask me about **React, Node.JS, Flask, Express, TypeScript, JavaScript**
 
