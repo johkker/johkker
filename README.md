@@ -22,10 +22,7 @@
   🌐 Socials
 </h2>
 <div align="center">
-  <a href="https://facebook.com/wolvver"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/johkker"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/johkker"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
- <a href="https://twitter.com/johkker"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a>
   </div>
   <div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 10%;">
   
