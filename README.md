@@ -6,7 +6,7 @@
 
 - 🔭 Open to work.
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently further developing my **Node.JS** skills.
 
 - 💬 Ask me about **React, Node.JS, Flask, Express, TypeScript, JavaScript**
 
