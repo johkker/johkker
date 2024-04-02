@@ -53,9 +53,9 @@
   
 
   
-![](https://github-readme-stats.vercel.app/api?username=johkker&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats-beta-six-52.vercel.app/api?username=johkker&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=johkker&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=johkker&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats-beta-six-52.vercel.app/api/top-langs/?username=johkker&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
   
 
   
